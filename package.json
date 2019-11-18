@@ -1,0 +1,19 @@
+{
+  "name": "steam-shortcuts-create",
+  "version": "1.0.0",
+  "description": "Create steam shortcut files",
+  "main": "steam-shortcuts-create.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "type": "module",
+  "devDependencies": {},
+  "dependencies": {
+    "@node-steam/vdf": "~2.1.x",
+    "binary-vdf": "~0.1.x",
+    "commander": "~3.0.x",
+    "create-desktop-shortcuts": "~1.0.x"
+  }
+}
