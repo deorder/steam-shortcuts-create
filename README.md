@@ -7,3 +7,14 @@ Run as follows and replace `<steam library folder>` as needed:
 ```
 node --experimental-modules ./steam-shortcuts-create.js -l <steam library folder>
 ```
+
+## Install
+
+Run the following inside the `steam-shortcuts-create` directory:
+```
+npm install
+```
+
+## Requirements
+
+Latest NodeJS
