@@ -1,2 +1,2 @@
-# steam-shortcuts-create
+# Create steam shortcuts
 Create steam shortcuts
